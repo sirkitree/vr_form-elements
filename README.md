@@ -8,6 +8,6 @@ We'll first be coming up with ideas around each element (if it has a visual comp
 
 Component libraries should be created in a way that form attributes become properties of the component which can be changed in their resepcted engines. For instance adding a radio button to Unity provides an options panel for relevant attributes which can be set by the project owner.
 
-They should also be created in a way that the components are easily added to any project. For instance, a radio button componenet for Aframe could be coded using aframe-react and added to npm for people to install in their Aframe projects, and Unity and UE4 components added to their respective stores for people to find and use in their projects.
+They should also be created in a way that the components are easily added to any project. For instance, a radio button component for Aframe could be coded using aframe-react and added to npm for people to install in their Aframe projects. Unity and UE4 components added to their respective stores for people to find and use in their projects.
 
-As mush as we want to provide re-usable components, this is also largely a study to see what is possible when it comes to replicating traditional input gathering from users. Our BHAG (big hairy audacious goal) would be to re-create something like wufoo.com for Virtual Reality.
+As much as we want to provide re-usable components, this is also largely a study to see what is possible when it comes to replicating traditional input gathering from users. Our BHAG (big hairy audacious goal) would be to have enough elements that we could re-create something like wufoo.com for virtual reality.
